@@ -10,7 +10,7 @@
 First web project using **HTML5** & **CSS3**. It features a mobile store landing page and a custom-styled registration form.
 
 **Quick Links:**
-* [Live Demo]()
+* [ https://bedo234.github.io/CS-Project/]()
 
 ---
 *Built with ❤️ by Engineering Students.*
