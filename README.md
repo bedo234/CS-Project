@@ -2,8 +2,8 @@
 ### Computer Skills Course - Benha University (Shoubra)
 
 **The Team:**
-* [Abdulrahman Mohamed Abdelmomen]
-* [Abdulrahman Mohamed Abdelrahman]
+* [Abdulrahman Mohamed Abdulmomen]
+* [Abdulrahman Mohamed Abdulrahman]
 * [Abdulrahman Moostafa]
   
 **Project Overview:**
